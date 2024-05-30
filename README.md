@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
  -  research -- EVM research and EIP contribution, Cryptography and Zk Research.
  -  protocol development.
 ### I work at the Klaytn Foundation 
-I am fast becoming a mad scientist, a Developer and Researcher, contributing to Improvement Proposals, Evm Research etc.
-I am relentlessly evolving.
+ - I am fast becoming a mad scientist, a Developer and Researcher, contributing to Improvement Proposals, Evm Research etc.
+ - I am relentlessly evolving.
