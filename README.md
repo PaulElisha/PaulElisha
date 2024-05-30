@@ -10,8 +10,8 @@
 PaulElisha/PaulElisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am a Web3 backend Engineer and Researcher. 
-I am interested in the following:
+## I am a Web3 backend Engineer and Researcher. 
+## I am interested in the following:
  - building web3 products and infrastructure.
  -  research -- EVM research and EIP contribution, Cryptography and Zk Research.
  -  protocol development.
