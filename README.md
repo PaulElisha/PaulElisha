@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
  - building web3 products and infrastructure.
  -  research -- EVM research and EIP contribution, Cryptography and Zk Research.
  -  protocol development.
-### I am fast becoming a mad scientist.
-I work at the Klaytn Foundation as a Developer and Researcher, contributing to Improvement Proposals, Evm Research etc.
+### I work at the Klaytn Foundation 
+I am fast becoming a mad scientist, a Developer and Researcher, contributing to Improvement Proposals, Evm Research etc.
 I am relentlessly evolving.
