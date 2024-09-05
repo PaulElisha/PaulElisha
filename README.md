@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaulElisha
 - 👀 I’m interested in Web3 -- Backend and Research
 - 🌱 I’m currently learning Golang
-- 💞️ Founder, Scooper Labs
+- 💞️ Founder, Scooper-Labs
 - 💞️ I’m looking to collaborate on Web3 projects and Research.
 - 📫 How to reach me paulelisha@skiff.com
 - 😄 Pronouns: He/Him
