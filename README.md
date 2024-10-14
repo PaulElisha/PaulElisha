@@ -17,5 +17,5 @@ I am interested in the following:
  -  research -- EVM research, Cryptography and Zk Research.
  -  protocol development.
 ### Kaia Foundation 
- - I am a Developer and Researcher, etc.
+ - I work as a Developer and Researcher at Kaia Foundation.
  - I am relentlessly evolving.
