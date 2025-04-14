@@ -8,9 +8,7 @@ I'm a Blockchain Engineer who currently works as a Developer Ambassador at [Kaia
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
-- I am interested in the following:
-   protocol development.
-   research -- DeFi Research.
+- I am interested in protocol development and DeFi Research.
 - 🌱 I’m currently learning Go.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Blockchain Engineer, DeFi Technical Researcher and Technical Writer (Intern or Junior Level).
