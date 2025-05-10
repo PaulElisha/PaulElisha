@@ -11,7 +11,7 @@ I'm a Blockchain Engineer who currently works as a Developer Ambassador at [Kaia
 - 🎯 I am interested in Protocol development, DeFi and Research.
 - 🌱 I’m currently learning Go.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Blockchain Engineering, Research and Technical Writing (Intern or Junior Level).
+- 💼 Job interests: Blockchain Engineering, Devrel Technical Writing, Research and Education.
 - 📫 Contact by email: ajaoireoluwa1@gmail.com.
 
 ---
