@@ -7,7 +7,7 @@ I'm a Blockchain Engineer who currently works as a Developer Ambassador at [Kaia
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I studied Software Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
+- 💡 Skill: Backend Software Development at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
 - 🎯 I am interested in Protocol development, DeFi and Research.
 - 🌱 I’m currently learning Go.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
