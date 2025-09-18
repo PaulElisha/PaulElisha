@@ -6,8 +6,6 @@ I'm a Blockchain Engineer who currently works as a Developer Ambassador at [Kaia
 
 I'm a Software Engineer and Founder with over 8 years of experience architecting and building mission-critical software in the decentralized finance (DeFi) and high-performance computing space. My expertise lies in creating robust, secure, and scalable systems from the ground up, transforming complex financial concepts into production-ready applications.
 
----
-
 ## 🛠️ Core Competencies & Technology Stack
 
 My technical expertise is allows me to architect and implement blockchain and web solutions.
@@ -16,8 +14,6 @@ My technical expertise is allows me to architect and implement blockchain and we
 - DeFi Primitives: AMMs, Decentralized Swaps, Vault, MEV and IL Strategies.
 - Backend & Web Applications: Node.js + Express, MongoDB (API design, routing, authentication, sessions, DB interactions).
 - Architectural Expertise: Web application architecture (REST APIs, MVC pattern), Smart contract architecture (state machines, on-chain workflows), Event-Driven Architecture.
-
----
 
 ## 📈 Professional Highlights & Key Projects
 
@@ -31,13 +27,9 @@ Throughout my career, I have build and contributed to (via open-source) a wide a
 "Scalability in blockchain architecture: enabling concurrency in blockchain architecture while preventing double-spending, race conditions and guarantee consistency".
 "Explained Uniswap V3 comprehensively touching on liquidity math, position management and the core concept of concentrated liquidity"
 
----
-
 ## 🔭 My Philosophy
 
 First Principles Thinking: I believe in building from the ground up, ensuring a deep understanding of the core protocols and systems I work with.
-
----
 
 ## 📫 Let's Connect
 
