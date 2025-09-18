@@ -35,5 +35,5 @@ First Principles Thinking: I believe in building from the ground up, ensuring a 
 
 I'm always open to discussing new technologies, collaborating on ambitious projects, or exploring opportunities in the DeFi space.
 
-- Twitter / X: @paulelishaa
+- Twitter / X: [paulelishaa](https://x.com/paulelishaa)
 - Email: ajaoireoluwa1@gmail.com.
