@@ -21,9 +21,9 @@ Throughout my career, I have build and contributed to (via open-source) a wide a
 - Contributed to the cngn stablecoin price oracle solution: refactored and secured the oracle integration powering the cNGN stablecoin, a wrapped central bank digital currency (CBDC).
 - Authored the [Handling Deltas for Liquidity Modifications](https://docs.uniswap.org/contracts/v4/guides/unlock-callback#handling-deltas-for-liquidity-modifications) section of the Uniswap V4 documentation: explained discrepancies between static liquidity math and real execution results due to tick crossings, price movement, and rounding. Outlined best practices for slippage checks and delta-based settlement, improving reliability of custom router implementations.
 - Created Advanced Trading Bots: developed profitable MEV (Maximal Extractable Value) and liquidation bots that interact with complex DeFi protocols, requiring deep blockchain and economic understanding.
-# Researched on the following topics:
- * "Scalability in blockchain architecture: enabling concurrency in blockchain architecture while preventing double-spending, race conditions and guarantee consistency".
- * "Explained Uniswap V3 comprehensively touching on liquidity math, position management and the core concept of concentrated liquidity"
+** Researched on the following topics:
+ - "Scalability in blockchain architecture: enabling concurrency in blockchain architecture while preventing double-spending, race conditions and guarantee consistency".
+ - "Explained Uniswap V3 comprehensively touching on liquidity math, position management and the core concept of concentrated liquidity"
 
 ## 🔭 My Philosophy
 
