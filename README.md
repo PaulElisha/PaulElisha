@@ -38,5 +38,5 @@ I'm always open to discussing new technologies, collaborating on ambitious proje
  
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulelisha&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&hide_border=true" alt="Paul Elisha's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulelisha&langs_count=8&layout=compact&hide_border=true" alt="Paul Elisha's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulelisha&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&hide_border=true" alt="Paul Elisha's GitHub stats" /> | 
 | ------------- | ------------- |
