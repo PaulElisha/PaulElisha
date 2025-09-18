@@ -8,9 +8,9 @@ I'm a software and blockchain engineer with experience building software and dec
 
 My technical expertise allows me to architect and implement blockchain and web solutions.
 
-- Blockchain & smart Contracts: solidity, design patterns, Gas optimization (for smart contracts on EVM).
-- DeFi primitives: AMMs, decentralized swaps, vault, MEV and IL Strategies.
-- Backend web applications: node.js + express, MongoDB (API design, routing, authentication, sessions, DB interactions).
+- Blockchain & smart contracts: solidity, design patterns, Gas optimization (for smart contracts on EVM).
+- DeFi primitives: AMMs, decentralized swaps, vault, MEV and IL strategies.
+- Backend web applications: node.js + express, mongoDB (API design, routing, authentication, sessions, DB interactions).
 - Architectural expertise: web application architecture (REST APIs, MVC pattern), Smart contract architecture (state machines, on-chain workflows), Event-Driven Architecture.
 
 ## 📈 Professional Highlights & Key Projects
@@ -19,11 +19,11 @@ Throughout my career, I have build and contributed to (via open-source) a wide a
 
 - Developed Secure Smart Contracts: authored, tested, and deployed complex Solidity smart contracts for Decentralized Exchanges (DEXs).
 - Contributed to stablecoin solutions: built scalable microservices in Go and Typescript to facilitate seamless crypto-to-fiat conversions and international payments.
-- Authored the “Handling Deltas for Liquidity Modifications” section of the Uniswap V4 documentation: explained discrepancies between static liquidity math and real execution results due to tick crossings, price movement, and rounding. Outlined best practices for slippage checks and delta-based settlement, improving reliability of custom router implementations.
+- Authored the [Handling Deltas for Liquidity Modifications](https://docs.uniswap.org/contracts/v4/guides/unlock-callback#handling-deltas-for-liquidity-modifications) section of the Uniswap V4 documentation: explained discrepancies between static liquidity math and real execution results due to tick crossings, price movement, and rounding. Outlined best practices for slippage checks and delta-based settlement, improving reliability of custom router implementations.
 - Created Advanced Trading Bots: developed profitable MEV (Maximal Extractable Value) and liquidation bots that interact with complex DeFi protocols, requiring deep blockchain and economic understanding.
 - Researched on the following topics:
- - "Scalability in blockchain architecture: enabling concurrency in blockchain architecture while preventing double-spending, race conditions and guarantee consistency".
- - "Explained Uniswap V3 comprehensively touching on liquidity math, position management and the core concept of concentrated liquidity"
+ * "Scalability in blockchain architecture: enabling concurrency in blockchain architecture while preventing double-spending, race conditions and guarantee consistency".
+ * "Explained Uniswap V3 comprehensively touching on liquidity math, position management and the core concept of concentrated liquidity"
 
 ## 🔭 My Philosophy
 
@@ -35,5 +35,3 @@ I'm always open to discussing new technologies, collaborating on ambitious proje
 
 - Twitter / X: @paulelishaa
 - Email: ajaoireoluwa1@gmail.com.
- 
----
