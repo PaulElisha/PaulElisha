@@ -25,7 +25,7 @@ Throughout my career, I have build and contributed to (via open-source) a wide a
 
     "Explained Uniswap V3 advanced mechanics; the core concept of concentrated liquidity, reserves, liquidity math, position management".
   
-   "Scalability in blockchain architecture: enabling concurrency in blockchain architecture while preventing double-spending, race conditions and guarantee consistency".
+   "Mechanics of Liquidity distribution in Uniswap V3 - an understanding of execution tracing, slippage analysis and liquidity distribution".
 
 ## 🔭 My Philosophy
 
