@@ -22,7 +22,7 @@ Throughout my career, I have build and contributed to (via open-source) a wide a
 - Authored the [Handling Deltas for Liquidity Modifications](https://docs.uniswap.org/contracts/v4/guides/unlock-callback#handling-deltas-for-liquidity-modifications) section of the Uniswap V4 documentation: explained discrepancies between static liquidity math and real execution results due to tick crossings, price movement, and rounding. Outlined best practices for slippage checks and delta-based settlement, improving reliability of custom router implementations.
 - Created Advanced Trading Bots: developed profitable MEV (Maximal Extractable Value) and liquidation bots that interact with complex DeFi protocols, requiring deep blockchain and economic understanding.
 - <ins>Blogs:</ins>
-    "Explained Uniswap V3 advanced mechanics; the core concept of concentrated liquidity, reserves, liquidity math, position management".
+    "Explained Uniswap V3 advanced mechanics; the core concept of concentrated liquidity, reserves, liquidity math, position management".\
    "Mechanics of Liquidity distribution in Uniswap V3 - an understanding of execution tracing, slippage analysis and liquidity distribution".
 
 ## 🔭 My Philosophy
